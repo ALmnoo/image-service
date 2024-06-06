@@ -1,0 +1,160 @@
+<svg id="组_1" data-name="组 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="544" viewBox="0 0 900 544">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-7, .cls-9 {
+        fill: #fff;
+        opacity: 0.5;
+      }
+
+      .cls-1, .cls-10, .cls-2, .cls-3, .cls-8, .cls-9 {
+        stroke: #6552c8;
+        stroke-width: 1px;
+      }
+
+      .cls-1, .cls-10, .cls-2, .cls-8, .cls-9 {
+        stroke-linejoin: round;
+        stroke-dasharray: 16 4;
+      }
+
+      .cls-1, .cls-10, .cls-13, .cls-2, .cls-3, .cls-7, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2, .cls-3, .cls-8 {
+        fill: none;
+      }
+
+      .cls-3 {
+        opacity: 0.45;
+      }
+
+      .cls-11, .cls-4 {
+        font-size: 16px;
+      }
+
+      .cls-4 {
+        fill: #160a5d;
+      }
+
+      .cls-11, .cls-12, .cls-4, .cls-5, .cls-6 {
+        font-family: "PingFang SC";
+      }
+
+      .cls-12, .cls-5 {
+        font-size: 14px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #251a6c;
+      }
+
+      .cls-6 {
+        font-size: 22px;
+      }
+
+      .cls-7 {
+        filter: url(#filter-2);
+      }
+
+      .cls-9 {
+        filter: url(#filter-3);
+      }
+
+      .cls-10 {
+        filter: url(#filter-4);
+      }
+
+      .cls-11, .cls-12 {
+        fill: #2e1ba0;
+      }
+
+      .cls-13 {
+        fill: #5e48e3;
+      }
+    </style>
+    <filter id="filter" x="10" y="285" width="229" height="174" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="10" y="285" width="229" height="174" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjI5IiBoZWlnaHQ9IjE3NCIgdmlld0JveD0iMCAwIDIyOSAxNzQiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iMTg3LjUwMiIgeTE9IjE3NCIgeDI9IjQxLjQ5OCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9Ii0wLjI1IiBzdG9wLWNvbG9yPSIjZmJmZGZmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC43NzkiIHN0b3AtY29sb3I9IiNmYmZkZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxLjI1IiBzdG9wLWNvbG9yPSIjZTNkZmZiIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSIyMjkiIGhlaWdodD0iMTc0Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="340" y="250" width="211" height="246" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="340" y="250" width="211" height="246" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjExIiBoZWlnaHQ9IjI0NiIgdmlld0JveD0iMCAwIDIxMSAyNDYiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iMjA4LjcwOSIgeTE9IjI0NiIgeDI9IjIuMjkxIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iLTAuMjUiIHN0b3AtY29sb3I9IiNmYmZkZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjc3OSIgc3RvcC1jb2xvcj0iI2ZiZmRmZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEuMjUiIHN0b3AtY29sb3I9IiNlM2RmZmIiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjIxMSIgaGVpZ2h0PSIyNDYiLz4KPC9zdmc+Cg=="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="340" y="44" width="211" height="126" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="340" y="44" width="211" height="126" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjExIiBoZWlnaHQ9IjEyNiIgdmlld0JveD0iMCAwIDIxMSAxMjYiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iMTU4LjM2MyIgeTE9IjEyNiIgeDI9IjUyLjYzNyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9Ii0wLjI1IiBzdG9wLWNvbG9yPSIjZmJmZGZmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC43NzkiIHN0b3AtY29sb3I9IiNmYmZkZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxLjI1IiBzdG9wLWNvbG9yPSIjZTNkZmZiIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSIyMTEiIGhlaWdodD0iMTI2Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="615" y="250" width="273" height="246" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="615" y="250" width="273" height="246" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjczIiBoZWlnaHQ9IjI0NiIgdmlld0JveD0iMCAwIDI3MyAyNDYiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iMjM5LjcwOSIgeTE9IjI0NiIgeDI9IjMzLjI5MSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9Ii0wLjI1IiBzdG9wLWNvbG9yPSIjZmJmZGZmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC43NzkiIHN0b3AtY29sb3I9IiNmYmZkZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxLjI1IiBzdG9wLWNvbG9yPSIjZTNkZmZiIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSIyNzMiIGhlaWdodD0iMjQ2Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <image id="图层_0" data-name="图层 0" width="900" height="544" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4QAAAIgCAYAAADdtKd3AAAMEElEQVR4nO3XQQHAQBCEsG39e54TQmKBF9+2HQAAADm/5AAAAE2GEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAECUIQQAAIgyhAAAAFGGEAAAIMoQAgAARBlCAACAKEMIAAAQZQgBAACiDCEAAEDR3T1DRAg8eBpaswAAAABJRU5ErkJggg=="/>
+  <g style="fill: #fff; filter: url(#filter)">
+    <path id="矩形_1_拷贝_2" data-name="矩形 1 拷贝 2" class="cls-1" d="M10,285H239V459H10V285h0Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#矩形_1_拷贝_2" style="stroke: #6552c8; filter: none; fill: none"/>
+  <path id="矩形_1" data-name="矩形 1" class="cls-2" d="M10,285H239V459H10V285h0Z"/>
+  <path id="矩形_1_拷贝" data-name="矩形 1 拷贝" class="cls-3" d="M33.442,345.475H215.558a4,4,0,0,1,4,4v83.05a4,4,0,0,1-4,4H33.442a4,4,0,0,1-4-4v-83.05A4,4,0,0,1,33.442,345.475Z"/>
+  <text id="业务控制服务器" class="cls-4" x="28.996" y="322.946">业务控制服务器</text>
+  <text id="创建_修改_删除" data-name="创建/修改/删除" class="cls-5" x="57.996" y="374.946">创建/修改/删除</text>
+  <text id="会议" class="cls-5" x="163.996" y="374.946">会议</text>
+  <text id="创建_修改_删除-2" data-name="创建/修改/删除" class="cls-5" x="57.996" y="401.946">创建/修改/删除</text>
+  <text id="_......" data-name="......" class="cls-6" x="105.997" y="422.946">......</text>
+  <text id="用户" class="cls-5" x="163.996" y="401.946">用户</text>
+  <path id="矩形_1_拷贝_4" data-name="矩形 1 拷贝 4" class="cls-7" d="M340,250H551V496H340V250h0Z"/>
+  <rect id="矩形_1_拷贝_3" data-name="矩形 1 拷贝 3" class="cls-8" x="340" y="250" width="211" height="246" rx="4" ry="4"/>
+  <path id="矩形_1_拷贝_3-2" data-name="矩形 1 拷贝 3" class="cls-3" d="M367.422,309.493H525.578a4,4,0,0,1,4,4v38.655a4,4,0,0,1-4,4H367.422a4,4,0,0,1-4-4V313.493A4,4,0,0,1,367.422,309.493Z"/>
+  <text id="Web管理页面" class="cls-5" x="403.997" y="338.946">Web管理页面</text>
+  <path id="矩形_1_拷贝_5" data-name="矩形 1 拷贝 5" class="cls-3" d="M367.422,368.671H525.578a4,4,0,0,1,4,4v38.655a4,4,0,0,1-4,4H367.422a4,4,0,0,1-4-4V372.671A4,4,0,0,1,367.422,368.671Z"/>
+  <text id="服务器API" class="cls-5" x="414.996" y="397.946">服务器API</text>
+  <path id="矩形_1_拷贝_6" data-name="矩形 1 拷贝 6" class="cls-3" d="M367.422,428.852H525.578a4,4,0,0,1,4,4v38.655a4,4,0,0,1-4,4H367.422a4,4,0,0,1-4-4V432.852A4,4,0,0,1,367.422,428.852Z"/>
+  <text id="流媒体服务器" class="cls-5" x="403.997" y="457.946">流媒体服务器</text>
+  <text id="好视通服务器" class="cls-4" x="359.996" y="286.946">好视通服务器</text>
+  <g style="fill: #fff; filter: url(#filter-3)">
+    <path id="矩形_1_拷贝_9" data-name="矩形 1 拷贝 9" class="cls-9" d="M340,44H551V170H340V44h0Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#矩形_1_拷贝_9" style="stroke: #6552c8; filter: none; fill: none"/>
+  <path id="矩形_1_拷贝_9-2" data-name="矩形 1 拷贝 9" class="cls-2" d="M340,44H551V170H340V44h0Z"/>
+  <path id="矩形_1_拷贝_9-3" data-name="矩形 1 拷贝 9" class="cls-3" d="M366.422,103.493H524.578a4,4,0,0,1,4,4v38.655a4,4,0,0,1-4,4H366.422a4,4,0,0,1-4-4V107.493A4,4,0,0,1,366.422,103.493Z"/>
+  <text id="好视通客户端SDK" class="cls-5" x="388.996" y="132.946">好视通客户端SDK</text>
+  <text id="桌面_移动_客户端" data-name="桌面/移动  客户端" class="cls-4" x="360.996" y="80.946">桌面/移动  客户端</text>
+  <g style="fill: #fff; filter: url(#filter-4)">
+    <path id="矩形_1_拷贝_7" data-name="矩形 1 拷贝 7" class="cls-10" d="M615,250H888V496H615V250h0Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#矩形_1_拷贝_7" style="stroke: #6552c8; filter: none; fill: none"/>
+  <path id="矩形_1_拷贝_7-2" data-name="矩形 1 拷贝 7" class="cls-2" d="M615,250H888V496H615V250h0Z"/>
+  <path id="矩形_1_拷贝_7-3" data-name="矩形 1 拷贝 7" class="cls-3" d="M637.427,309.493H744.573a4,4,0,0,1,4,4v38.655a4,4,0,0,1-4,4H637.427a4,4,0,0,1-4-4V313.493A4,4,0,0,1,637.427,309.493Z"/>
+  <text id="好视通软件端" class="cls-5" x="648.996" y="338.946">好视通软件端</text>
+  <path id="矩形_1_拷贝_7-4" data-name="矩形 1 拷贝 7" class="cls-3" d="M637.427,368.671H744.573a4,4,0,0,1,4,4v38.655a4,4,0,0,1-4,4H637.427a4,4,0,0,1-4-4V372.671A4,4,0,0,1,637.427,368.671Z"/>
+  <text id="好视通硬件端" class="cls-5" x="648.996" y="397.946">好视通硬件端</text>
+  <path id="矩形_1_拷贝_7-5" data-name="矩形 1 拷贝 7" class="cls-3" d="M637.427,428.852H744.573a4,4,0,0,1,4,4v38.655a4,4,0,0,1-4,4H637.427a4,4,0,0,1-4-4V432.852A4,4,0,0,1,637.427,428.852Z"/>
+  <text id="国产化" class="cls-5" x="669.996" y="457.946">国产化</text>
+  <path id="矩形_1_拷贝_8" data-name="矩形 1 拷贝 8" class="cls-3" d="M763.427,309.493H870.573a4,4,0,0,1,4,4v38.655a4,4,0,0,1-4,4H763.427a4,4,0,0,1-4-4V313.493A4,4,0,0,1,763.427,309.493Z"/>
+  <text id="H.323_SIP" data-name="H.323/SIP" class="cls-5" x="783.996" y="338.946">H.323/SIP</text>
+  <path id="矩形_1_拷贝_8-2" data-name="矩形 1 拷贝 8" class="cls-3" d="M763.427,368.671H870.573a4,4,0,0,1,4,4v38.655a4,4,0,0,1-4,4H763.427a4,4,0,0,1-4-4V372.671A4,4,0,0,1,763.427,368.671Z"/>
+  <text id="录制" class="cls-5" x="802.996" y="397.946">录制</text>
+  <path id="矩形_1_拷贝_8-3" data-name="矩形 1 拷贝 8" class="cls-3" d="M763.427,428.852H870.573a4,4,0,0,1,4,4v38.655a4,4,0,0,1-4,4H763.427a4,4,0,0,1-4-4V432.852A4,4,0,0,1,763.427,428.852Z"/>
+  <text id="电话" class="cls-5" x="801.996" y="457.946">电话</text>
+  <text id="好视通标准解决方案" class="cls-4" x="631.996" y="286.946">好视通标准解决方案</text>
+  <text id="会议管理" class="cls-11" x="253.996" y="343.946">会议管理</text>
+  <text id="互通" class="cls-11" x="568.996" y="361.946">互通</text>
+  <text id="互通_拷贝" data-name="互通 拷贝" class="cls-11" x="448.997" y="218.946">互通</text>
+  <text id="_RESTFul_" data-name="（RESTFul）" class="cls-12" x="247.996" y="367.946">（RESTFul）</text>
+  <path id="矩形_2" data-name="矩形 2" class="cls-13" d="M250,379h70v1H250v-1h0Z"/>
+  <path id="三角形_1" data-name="三角形 1" class="cls-13" d="M329,379.5L319,385V374Z"/>
+  <path id="矩形_2_拷贝" data-name="矩形 2 拷贝" class="cls-13" d="M569,379h27v1H569v-1h0Z"/>
+  <path id="三角形_1_拷贝" data-name="三角形 1 拷贝" class="cls-13" d="M605,379.5L595,385V374Z"/>
+  <path id="矩形_2_拷贝_2" data-name="矩形 2 拷贝 2" class="cls-13" d="M444,202V187h1v15h-1Z"/>
+  <path id="三角形_1_拷贝_2" data-name="三角形 1 拷贝 2" class="cls-13" d="M444,177.5l5.5,10h-11Z"/>
+  <path id="矩形_2_拷贝_3" data-name="矩形 2 拷贝 3" class="cls-13" d="M445,220.5v15h-1v-15h1Z"/>
+  <path id="三角形_1_拷贝_3" data-name="三角形 1 拷贝 3" class="cls-13" d="M445,245l-5.5-10h11Z"/>
+</svg>
